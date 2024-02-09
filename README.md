@@ -5,7 +5,7 @@ As a data scientist, I bring three years of experience as a data analyst and a b
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:goknurkaya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
