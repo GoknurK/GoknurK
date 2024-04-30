@@ -1,6 +1,6 @@
 <img src="banner_image.png" alt="GK_Data_Science"/>
 
-As a data scientist/data analyst, I bring over 5 years of experience as a data analyst/data scientist and a background in psychology, specializing in statistical modeling and machine learning. Proficient in Python, SQL, and various data visualization tools.
+As a Data Scientist/Data Analyst, I bring over 5 years of experience and a background in psychology, specializing in statistical modeling and machine learning. Proficient in Python, SQL, and various data visualization tools.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
