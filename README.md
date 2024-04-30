@@ -1,6 +1,6 @@
 <img src="banner_image.png" alt="GK_Data_Science"/>
 
-As a data scientist, I bring three years of experience as a data analyst and a background in psychology, specializing in statistical modeling and machine learning. Proficient in Python, SQL, and various data visualization tools, I've spearheaded impactful initiatives at Gtex Global, optimizing reporting and inventory management processes. My track record includes successful projects in Google Play Store app rating predictions, Apple Twitter sentiment analysis, and Tanzania water well status prediction, showcasing my ability to deliver actionable insights and drive meaningful impact.
+As a data scientist/data analyst, I bring over 5 years of experience as a data analyst/data scientist and a background in psychology, specializing in statistical modeling and machine learning. Proficient in Python, SQL, and various data visualization tools.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
