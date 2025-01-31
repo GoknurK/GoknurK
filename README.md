@@ -1,6 +1,4 @@
-<img src="banner_image.png" alt="GK_Data_Science"/>
-
-As a Data Scientist/Data Analyst, I bring over 5 years of experience and a background in psychology, specializing in statistical modeling and machine learning. Proficient in Python, SQL, and various data visualization tools.
+Hi! I am Goknur Kaya. I bring over 3 years of experience in supply chain, eco-techonology and a background in psychology, specializing in statistical modeling, machine learning, and supply chain optimization. Proficient in Python, SQL, Excel, and Tableau.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
